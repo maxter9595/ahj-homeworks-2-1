@@ -1,0 +1,1 @@
+body{background-color:#f4f4f4;height:100vh}.game-container,body{align-items:center;display:flex;justify-content:center}.game-grid{display:grid;gap:5px;grid-template-columns:repeat(4,100px);grid-template-rows:repeat(4,100px)}.cell{align-items:center;background-color:#ddd;border-radius:8px;display:flex;height:100px;justify-content:center;width:100px}.goblin{height:80px;width:80px}
